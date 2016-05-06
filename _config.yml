@@ -1,7 +1,7 @@
 name: claudiochocolate
 favicon: null
-layout_spectrum: 0.10438495129346848
-typography_spectrum: 0.03286003693938255
+layout_spectrum: 0.25309
+typography_spectrum: 0.30573
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.3534036772325635
-  lightness: 0.6948272215668112
-  saturation: 0.7778869620524347
-  rhythmicContrast: 0.3280255163554102
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []

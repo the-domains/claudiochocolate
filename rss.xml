@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[claudiochocolate]]></title>
         <description><![CDATA[claudiochocolate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/claudiochocolate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 May 2016 18:38:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 May 2016 18:38:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/claudiochocolate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a5e8ca8-3089-4a5c-a11d-3acad285b718.jpg">]]></description>
+            <link>https://thegrid.ai/claudiochocolate/391552a5-d4ed-49db-9616-95991ebf1e39/index.html</link>
+            <guid isPermaLink="false">391552a5-d4ed-49db-9616-95991ebf1e39</guid>
+            <pubDate>Fri, 06 May 2016 18:38:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Woman in news]]></title>
             <description><![CDATA[<article><h1>Woman in news</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ab29978397fd2796e506449429c1a408508a6af.jpg"></article>]]></description>
-            <link>undefinedwoman-in-news/index.html</link>
+            <link>https://thegrid.ai/claudiochocolate/woman-in-news/index.html</link>
             <guid isPermaLink="false">28ed97cb-77f6-4669-aff5-2362af3aa9a0</guid>
             <pubDate>Fri, 06 May 2016 18:38:13 GMT</pubDate>
         </item>

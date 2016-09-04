@@ -1,7 +1,18 @@
+layout_spectrum: 0.3762909534852952
+typography_spectrum: 0.4554457953199744
+color:
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  brandStrength: 0.7648946091067046
+  lightness: 0.13848445448093116
+  saturation: 0.8878413315396756
+  rhythmicContrast: 0.6606199641246349
 name: claudiochocolate
 favicon: null
-layout_spectrum: 0.25309
-typography_spectrum: 0.30573
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.5
 purpose: []
